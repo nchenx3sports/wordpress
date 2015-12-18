@@ -223,7 +223,7 @@ $(function(){
 
     get_referral_types: function(store_id){
       var deferred = $.Deferred();
-      deferred.resolve([{ Id: 36615, Name: "TV Commercial" }, { Id: 14881, Name: "Local Event" }, { Id: 15839, Name: "Facebook" }, { Id: 36625, Name: "Twitter" }, { Id: 36626, Name: "Instagram" }, { Id: 15240, Name: "X3 Employee or Member" }, { Id: 15228, Name: "Friend (Non-Member)" },{Id: 14883, Name: "Other" } ]);
+      deferred.resolve([{ Id: 36615, Name: "TV Commercial" }, { Id: 14881, Name: "Local Event" }, { Id: 15839, Name: "Facebook" }, { Id: 36625, Name: "Twitter" }, { Id: 36626, Name: "Instagram" }, { Id: 39505, Name: "Email" }, { Id: 15240, Name: "X3 Employee or Member" }, { Id: 15228, Name: "Friend (Non-Member)" },{Id: 14883, Name: "Other" } ]);
       return deferred;
     },
 

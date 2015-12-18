@@ -4530,7 +4530,9 @@ footer ul.social li:last-child a {
 } /* retina */
 
 
-
+#sign-up-location-dd-placeholder ul li:last-child, #signup-location-dd-placeholder ul li:last-child{
+	display: none;
+}
 
 
 
