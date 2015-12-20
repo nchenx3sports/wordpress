@@ -1,0 +1,68 @@
+<?php 
+/*
+Template Name: Homepage
+*/
+get_header(); ?>
+
+		<div id="home">
+			<div>
+				<div class="option-menu">
+					<a href="<?php echo get_page_link(8); ?>" title="Menu"><img src="assets/images/home-menu.jpg" alt="Menu"></a>
+				</div><!--menu-->
+			</div>
+			<br clear="all">
+			<div>
+				<div class="option-contact">
+					<div>
+						<div>
+							<p><a href="mailto:howdy@quiaustin.com" title="howdy@quiaustin.com">howdy@quiaustin.com</a></p>
+							<p>512.405.6245</p>
+						</div>
+					</div>
+				</div><!--contact-->
+			</div>
+			<br clear="all">			
+			<div>
+				<div class="option-tickets">
+					<img src="assets/images/tickets.png">
+				</div><!--tickets-->
+			</div>
+<br>
+			<div>
+				<div class="option-james-beard-award">
+					<img src="assets/images/logo-james-beard-award.png">
+				</div><!--award-->
+			</div>
+<br>
+			<div>
+				<div class="option-bios">
+					<a href="<?php echo get_page_link(10); ?>" title="Bios"><span>Bios</span></a>
+				</div><!--bios-->
+			</div>
+<br>
+			<div>
+				<div class="option-gallery">
+					<a href="<?php echo get_page_link(12); ?>" title="Gallery"><img src="assets/images/home-gallery.jpg" alt="Gallery"></a>
+				</div><!--gallery-->
+			</div>
+<br>
+			<div>
+				<div class="option-news">
+					<a href="<?php echo get_category_link(1); ?>" title="News"><span>News</span></a>
+				</div><!--news-->
+			</div>
+<br>
+			<div>
+				<div class="option-homies">
+					<a href="<?php echo get_page_link(16); ?>" title="Homies"><span>Homies</span></a>
+				</div><!--collaborators-->
+			</div>
+<br>
+			<div>
+				<div class="option-jobs">
+					<a href="mailto:jobs@quiaustin.com" title="Jobs"><span>Jobs</span></a>
+				</div><!--game-->
+			</div>			
+		</div><!--home-->
+		
+<?php get_footer(); ?>
