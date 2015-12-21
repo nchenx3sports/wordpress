@@ -3599,6 +3599,59 @@ form.infusion-form {
 }
 
 
+#header ul.second li.subnav {
+	padding: 0;
+}
+
+#header ul.second li.subnav span {
+	padding: 10px;
+	display: block;
+	cursor: pointer;	
+}
+
+#header ul.second li.subnav ul {
+	position: absolute;
+	left: -500em;
+	top: 100%;
+	margin-top: -5px;
+	text-transform: none;
+	background-color: #898989;
+	font-size: 1em;
+	width:  200px;
+}
+
+#header ul.second li.subnav ul li {
+	padding: 0;
+	display: block;
+}
+
+
+#header ul.second li.subnav ul li a {
+	color: #FFFFFF !important;
+	display: block;
+	padding: 5px 10px;
+	text-align: left;
+}
+
+#header ul.second li.subnav ul li a:hover {
+	background-color: #991d23;
+}
+
+#header ul.second li.subnav.on ul {
+	left: 0;
+}
+
+#header ul.second li.subnav.on span {
+	background-color: #898989;
+	color: #272726;
+}
+
+#header ul.second li.subnav.on span:hover {
+	background-color: #991d23;	
+	color: #272726;		
+}
+
+
 #header ul.second li.search span {
 	display: block;
 	height: 18px;
@@ -4529,10 +4582,10 @@ footer ul.social li:last-child a {
 
 } /* retina */
 
-
 #sign-up-location-dd-placeholder ul li:last-child, #signup-location-dd-placeholder ul li:last-child{
 	display: none;
 }
+
 
 
 

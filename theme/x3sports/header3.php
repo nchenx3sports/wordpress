@@ -175,7 +175,16 @@ src="https://www.facebook.com/tr?id=1110341385672559&ev=PageView&noscript=1"
 						<li>&nbsp;</li>
 					</ul>
 					<ul class="second">
-						<li><a href="<?php echo get_page_link(106); ?>">Members</a></li>
+						<li class="subnav"><span <?php if ($root_page_id == 4829) { echo 'class="on"'; } ?>>Members <ins>&#9660;</ins></span>
+							<ul>
+                                <li><a href="<?php echo get_page_link(10); ?>">Membership Programs</a></li>
+                                <li><a href="http://www.clubready.com/cl/x3sports.asp">ClubReady</a></li>
+                                <li><a href="<?php echo get_page_link(4640); ?>">Perkville</a></li>
+                                <li><a href="http://survey.constantcontact.com/survey/a07e9tndo2thzx0ro32/a01nwii95kbhl/greeting">Survey</a></li>
+								<li><a href="<?php echo get_page_link(4583); ?>">Training Assessment & Fitness Goal Consultation</a></li>
+								<li><a href="<?php echo get_page_link(106); ?>">FAQ</a></li>
+							</ul>
+						</li>
 						<li><a href="http://x3-sports.myshopify.com/" target="_blank">X3 Store</a></li>
 						<li><a href="<?php echo get_page_link(90); ?>">Contact Us</a></li>
 						<li class="search"><span>Search</span></li>
