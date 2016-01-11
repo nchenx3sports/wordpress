@@ -2813,10 +2813,16 @@ a#free-class {
 	background-image: url(../images/hero-text-muaythai-sm.png);
 }
 
-
+.iosSlider .slider .personaltraining .text {
+	background-image: url(../images/hero-text-personaltraining-sm.png);
+}
 
 .iosSlider .slider .text a {
 	margin: 70px 0 10px 0;
+}
+
+.iosSlider .slider .personaltraining .text {
+	background-image: url(../images/hero-text-personaltraining-sm.png);
 }
 
 
@@ -4053,6 +4059,11 @@ a#free-class span {
 	background-image: url(../images/hero-text-muaythai-med-2x.jpg);
 }
 
+.iosSlider .slider .personaltraining .text {
+	background-position: center 27px;
+	background-image: url(../images/hero-text—personaltraining-med-2x.jpg);
+}
+
 .lt-ie9 .iosSlider .slider .kickboxing .text {
 	background-image: url(../images/hero-text-kickboxing-med.jpg);
 }
@@ -4087,6 +4098,10 @@ a#free-class span {
 
 .lt-ie9 .iosSlider .slider .muaythai .text {
 	background-image: url(../images/hero-text-muaythai-med.jpg);
+}
+
+.lt-ie9 .iosSlider .slider .personaltraining .text {
+	background-image: url(../images/hero-text-personaltraining-med.jpg);
 }
 
 
@@ -4428,6 +4443,11 @@ article .half-col + .half-col {
 	background-image: url(../images/hero-text-muaythai-lg-2x.jpg);
 }
 
+.iosSlider .slider .personaltraining .text {
+	background-position: center 27px;
+	background-image: url(../images/hero-text-personaltraining-lg-2x.jpg);
+}
+
 .lt-ie9 .iosSlider .slider .kickboxing .text {
 	background-image: url(../images/hero-text-kickboxing-med.jpg);
 }
@@ -4462,6 +4482,10 @@ article .half-col + .half-col {
 
 .lt-ie9 .iosSlider .slider .muaythai .text {
 	background-image: url(../images/hero-text-muaythai-med.jpg);
+}
+
+.lt-ie9 .iosSlider .slider .personaltrianing .text {
+	background-image: url(../images/hero-text-personaltraining-med.jpg);
 }
 
 
