@@ -12,12 +12,9 @@
 						<ul><TABLE BACKGROUND=WHITE><TD>
 							<li><a href="<?php echo get_page_link(43); ?>">Schedules</a></li>
 							<li><a href="<?php echo get_page_link(101); ?>">Membership Programs</a></li>
-							<li><a href="<?php echo get_page_link(106); ?>">Members</a></li>
 							<li><a href="<?php echo get_page_link(57); ?>">Success Stories</a></li>
 							<li><a href="<?php echo get_category_link(1); ?>">Blog</a></li>
-							<li><a href="<?php echo get_page_link(12); ?>">X3 Experience</a></li>
-							<li><a href="http://x3-sports.myshopify.com/">X3 Store</a></li>
-							<li><a href="<?php echo get_page_link(104); ?>">How We Started</a></li>
+							<li><a href="<?php echo get_page_link(104); ?>">About Us</a></li>
 							<li><a href="<?php echo get_page_link(90); ?>">Contact Us</a></li>
 						</TD></TABLE>
 </ul>
