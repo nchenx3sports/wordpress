@@ -40,7 +40,6 @@
 						<li><a href="<?php echo get_page_link(108); ?>">License an X3 Sports</a></li>
 						<li><a href="<?php echo get_page_link(110); ?>">Fight Team</a></li>
 						<li><a href="<?php echo get_page_link(96); ?>">Careers</a></li>
-						<li><a href="<?php echo get_page_link(98); ?>">X3 Community Partners</a></li>
 					</ul>
 					<?php echo get('footer_copy', 1, 1, false, 87); ?>
 				</div><!--col-->
