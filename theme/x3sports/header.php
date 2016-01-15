@@ -182,7 +182,7 @@ src="https://www.facebook.com/tr?id=1110341385672559&ev=PageView&noscript=1"
                                 <li><a href="<?php echo get_page_link(4640); ?>">Perkville</a></li>                                                                
                                 <li><a href="<?php echo get_page_link(4968); ?>">X3 Plus</a></li>
 								<li><a href="<?php echo get_page_link(4583); ?>">Training Assessment & Fitness Goal Consultation</a></li>
-                                <li><a href="http://survey.constantcontact.com/survey/a07e9tndo2thzx0ro32/a01nwii95kbhl/greeting">Instructor/Class Survey</a></li>
+                                <li><a href="http://survey.constantcontact.com/survey/a07e9tndo2thzx0ro32/start">Instructor/Class Survey</a></li>
 								<li><a href="<?php echo get_page_link(106); ?>">FAQ</a></li>                                
                                 <li><a href="<?php echo get_page_link(5000); ?>">Freeze or<br>Cancel Membership</a></li>
                                 <li><a href="<?php echo get_page_link(4992); ?>">Feedback</a></li>
