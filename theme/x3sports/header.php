@@ -188,7 +188,7 @@ src="https://www.facebook.com/tr?id=1110341385672559&ev=PageView&noscript=1"
                                 <li><a href="<?php echo get_page_link(4992); ?>">Feedback</a></li>
 							</ul>
 						</li>
-						<li><a href="http://dev.x3sports.com/blog/">Blog</a></li>						
+						<li><a href="http://x3sports.com/blog/">Blog</a></li>						
 						<li><a href="<?php echo get_page_link(90); ?>">Contact Us</a></li>
 						<li class="search"><span>Search</span></li>
 					</ul>
