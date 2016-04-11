@@ -44,20 +44,27 @@
 		
 		if (is_page(2545)) { ?>
 
-		<!-- Google Code for Free Session Form Conversion Page -->
-		<script language="JavaScript" type="text/javascript">
-		<!--
-		var google_conversion_id = 1052881263;
-		var google_conversion_language = "en_US";
-		var google_conversion_format = "1";
-		var google_conversion_color = "000000";
-		var google_conversion_label = "oh-9CI3nRhDv4ob2Aw";
-		//-->
-		</script>
-		
-		<script language="JavaScript" src="http://www.googleadservices.com/pagead/conversion.js"></script>
-		<noscript><img height="1" width="1" border="0" style="display:none" src="http://www.googleadservices.com/pagead/conversion/1052881263/?label=oh-9CI3nRhDv4ob2Aw&amp;script=0"/></noscript>
-		
+<!-- Google Code for Free Session Form Conversion Page: Tammi Armstrong -->
+<!-- BEGIN Google Adwords Pixel Code -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1052881263;
+var google_conversion_language = "en_US";
+var google_conversion_format = "1";
+var google_conversion_color = "000000";
+var google_conversion_label = "oh-9CI3nRhDv4ob2Aw";
+var google_remarketing_only = false;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/1052881263/?label=oh-9CI3nRhDv4ob2Aw&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+<!-- END Google Adwords Pixel Code -->
+
 
 <!-- Facebook Conversion Code for Leads - Tammi Armstrong 2 since 10/14/15 -->
 <!-- BEGIN Facebook Pixel Code -->
