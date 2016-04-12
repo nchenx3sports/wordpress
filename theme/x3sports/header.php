@@ -7,7 +7,9 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<title><?php wp_title(); ?></title>
-		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+		<!--REMOVE MOBILE CODE // show full site with slider images on website-->
+<!--<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">-->
+		<!--MOBILE CODE REMOVED-->
 		<link href="http://fonts.googleapis.com/css?family=Open+Sans:700,800,600" rel="stylesheet" type="text/css">
 		<link href="http://fonts.googleapis.com/css?family=Titillium+Web:700,600" rel="stylesheet" type="text/css">
 		<link rel="stylesheet" type="text/css" href="/assets/css/magnific-popup.min.css" media="all">
