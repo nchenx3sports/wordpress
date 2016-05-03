@@ -197,6 +197,17 @@ src="https://www.facebook.com/tr?id=1110341385672559&ev=PageView&noscript=1"
                                 <li><a href="http://info.x3sports.com/member-feedback">Feedback</a></li>
 							</ul>
 						</li>
+						<li><span <?php if ($root_page_id == 6) { echo 'class="on"'; } ?>>About Us <ins>&#9660;</ins></span>
+							<ul>
+<?php $pages = get_pages(array('child_of' => 6, 'parent' => 6, 'sort_column' => 'menu_order'));
+  foreach ( $pages as $page ) {	echo '<li><a href="'.get_page_link( $page->ID ).'" title="'.$page->post_title.'">'.$page->post_title.'</a></li>'; } ?>
+							</ul>
+						</li>
+						<li>&nbsp;</li>
+					</ul>
+					<ul class="second">
+						<li><a href="http://facebook.com/x3sports"><IMG SRC="http://x3sports.com/wordpress/wp-content/uploads/2016/02/socialred_facebook.png" BORDER="0" WIDTH="30" HEIGHT="30"></A></li>
+						<li><a href="http://instagram.com/x3sports"><IMG SRC="http://x3sports.com/wordpress/wp-content/uploads/2016/02/socialred_instagram.png" BORDER="0" WIDTH="30" HEIGHT="30"></A></li>
 						<li><a href="http://x3sports.com/blog/">Blog</a></li>						
 						<li><a href="http://info.x3sports.com/contact-us">Contact Us</a></li>
 						<li class="search"><span>Search</span></li>
