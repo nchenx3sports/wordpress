@@ -15,7 +15,7 @@
 							<li><a href="<?php echo get_page_link(57); ?>">Success Stories</a></li>
 							<li><a href="<?php echo get_page_link(4968); ?>">X3 Plus</a></li>
 							<li><a href="<?php echo get_page_link(106); ?>">FAQ</a></li>
-							<li><a href="<?php echo get_category_link(1); ?>">Blog</a></li>
+							<li><a href="http://blog.x3sports.com/">Blog</a></li>
 							<li><a href="<?php echo get_page_link(104); ?>">About Us</a></li>
 							<li><a href="<?php echo get_page_link(90); ?>">Contact Us</a></li>
 						</TD></TABLE>
