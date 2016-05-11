@@ -206,8 +206,8 @@ src="https://www.facebook.com/tr?id=1110341385672559&ev=PageView&noscript=1"
 						<li>&nbsp;</li>
 					</ul>
 					<ul class="second">
-						<li><a href="http://facebook.com/x3sports"><IMG SRC="http://x3sports.com/wordpress/wp-content/uploads/2016/02/socialred_facebook.png" BORDER="0" WIDTH="30" HEIGHT="30"></A></li>
-						<li><a href="http://instagram.com/x3sports"><IMG SRC="http://x3sports.com/wordpress/wp-content/uploads/2016/02/socialred_instagram.png" BORDER="0" WIDTH="30" HEIGHT="30"></A></li>
+						<li><a href="http://facebook.com/x3sports"><IMG SRC="http://x3sports.com/wordpress/wp-content/uploads/2016/02/socialred_facebook.png" BORDER="0" WIDTH="30" HEIGHT="30" ALT="Facebook X3 Sports"></A></li>
+						<li><a href="http://instagram.com/x3sports"><IMG SRC="http://x3sports.com/wordpress/wp-content/uploads/2016/02/socialred_instagram.png" BORDER="0" WIDTH="30" HEIGHT="30" ALT="Instagram @x3sports"></A></li>
 						<li><a href="http://blog.x3sports.com">Blog</a></li>						
 						<li><a href="http://info.x3sports.com/contact-us">Contact Us</a></li>
 						<li class="search"><span>Search</span></li>
