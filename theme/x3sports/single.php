@@ -7,7 +7,7 @@
 			<div class="two-column">
 				<article>
 					<div class="metadata">
-						<p><H3></H3><a href="http://blog.x3sports.com">Back to Blog List</a></H3></p>
+						<p><H3><a href="http://blog.x3sports.com">Back to Blog List</a></H3></p>
 						<h5>Blog</h5>
 						<h1><?php the_title(); ?></h1>
 						<h6><?php the_time('F j, Y'); ?></h6>
