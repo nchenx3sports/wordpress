@@ -15,7 +15,7 @@
 		<link rel="stylesheet" type="text/css" href="/assets/css/magnific-popup.min.css" media="all">
 		<link rel="stylesheet" type="text/css" href="/assets/css/x3sports.css" media="all">
 		<link rel="shortcut icon" type="image/x-icon" href="/favicon.ico?new">
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+		<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>-->
 
 		<?php $root_page_id = ( empty( $post->ancestors ) ) ? $post->ID : end( $post->ancestors );
 
@@ -23,9 +23,11 @@
 			<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?sensor=false&key=AIzaSyD7RGy7HvAzvgoDHH52eV36PbmlNSz8mIA"></script>
 		<?php } ?>
 
-		<script src="/assets/js/jquery.iosslider.min.js"></script>
+		<?php wp_head(); ?>
+		
+        <script src="/assets/js/jquery.iosslider.min.js"></script>
 		<script src="/assets/js/masonry.pkgd.min.js"></script>
-		<script src="/assets/js/fastclick.min.js"></script>
+		<!--<script src="/assets/js/fastclick.min.js"></script>-->
 		<script src="/assets/js/jquery.fitvids.js"></script>
 		<script src="/assets/js/jquery.ddslick.min.js"></script>
 		<script src="/assets/js/jquery.magnific.popup.min.js"></script>
@@ -40,8 +42,8 @@
 			<script src="/assets/js/css3-mediaqueries.js"></script>
 			<script src="/assets/js/selectivizr.min.js"></script>
 		<![endif]-->
-		<?php wp_head(); 
-		
+        
+        <?php
 		//thank you page codes
 		
 		if (is_page(2545)) { ?>
