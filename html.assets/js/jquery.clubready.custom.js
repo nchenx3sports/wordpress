@@ -231,7 +231,7 @@
 
             get_employee_types: function(store_id){
             var deferred = $.Deferred();
-            deferred.resolve([{ Id: "Bruce Clem", Name: "Bruce Clem" }, { Id: "Daniel LaFavor", Name: "Daniel LaFavor" }, { Id: "Eric O'Neal", Name: "Eric O'Neal" }, { Id: "Erica Ferguson", Name: "Erica Ferguson" }, { Id: "Other", Name: "Other" }, { Id: "No, I have not spoken to an employee.", Name: "No, I have not spoken to an employee." }]);
+            deferred.resolve([{ Id: "Bruce Clem", Name: "Bruce Clem" }, { Id: "Nancy Chen", Name: "Nancy Chen" }, { Id: "Eric O'Neal", Name: "Eric O'Neal" }, { Id: "Erica Ferguson", Name: "Erica Ferguson" }, { Id: "Other", Name: "Other" }, { Id: "No, I have not spoken to an employee.", Name: "No, I have not spoken to an employee." }]);
             return deferred;
             },
 
