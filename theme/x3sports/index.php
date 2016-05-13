@@ -148,7 +148,7 @@ $temppost = get_post(get('blog_posts_post_3_id')); ?>
 			</div><!--blog-posts-->
 <?php } ?>
 
-
+<!--REMOVE MOTIVATION GUIDE AREA--
 			<div id="callout2">
 				<div class="content">
 					<div>
@@ -159,6 +159,7 @@ $temppost = get_post(get('blog_posts_post_3_id')); ?>
 				</div><!--content-->
 				<div class="bg"></div>
 			</div><!--callout2-->
+--END REMOVE MOTIVATION GUIDE AREA-->			
 		</section>
 		
 <?php get_footer(); ?>
