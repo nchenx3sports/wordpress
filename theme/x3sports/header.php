@@ -208,10 +208,11 @@ src="https://www.facebook.com/tr?id=1110341385672559&ev=PageView&noscript=1"
 						<li>&nbsp;</li>
 					</ul>
 					<ul class="second">
-						<li><a href="http://facebook.com/x3sports"><IMG SRC="http://x3sports.com/wordpress/wp-content/uploads/2016/02/socialred_facebook.png" BORDER="0" WIDTH="30" HEIGHT="30" ALT="Facebook X3 Sports"></A></li>
-						<li><a href="http://instagram.com/x3sports"><IMG SRC="http://x3sports.com/wordpress/wp-content/uploads/2016/02/socialred_instagram.png" BORDER="0" WIDTH="30" HEIGHT="30" ALT="Instagram @x3sports"></A></li>
-						<li><a href="http://blog.x3sports.com">Blog</a></li>						
+						<li><a href="http://facebook.com/x3sports"><IMG SRC="http://x3sports.com/wordpress/wp-content/uploads/2016/02/socialred_facebook.png" BORDER="0" WIDTH="25" HEIGHT="25"></A>
+						<a href="http://instagram.com/x3sports"><IMG SRC="http://x3sports.com/wordpress/wp-content/uploads/2016/02/socialred_instagram.png" BORDER="0" WIDTH="25" HEIGHT="25"></A></li>
+						<li><a href="http://blog.x3sports.com/">Blog</a></li>
 						<li><a href="http://info.x3sports.com/contact-us">Contact Us</a></li>
+						<li><B><a href="tel:678-903-0100">678-903-0100</a></B></li>
 						<li class="search"><span>Search</span></li>
 					</ul>
 					<form role="search" method="get" action="<?php echo home_url(); ?>/">
