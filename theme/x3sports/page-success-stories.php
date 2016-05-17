@@ -7,7 +7,7 @@ get_header(); ?>
 		<section role="main" class="success">
 			<a href="<?php echo get_page_link(48); ?>" id="free-class" title="Book my free class now">Book my free class now</a>
 			<h1>Success Stories</h1>
-
+			<CENTER><FONT COLOR="#C3C3C3">* The following are based on individual results from our clients. Results may vary from person to person.</FONT></CENTER><BR>
 
 <?php $args = array( 'posts_per_page' => -1, 'category' => 2 );
 $postlist = get_posts( $args ); 
